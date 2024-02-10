@@ -1,2 +1,2 @@
-# Test-repository
+# My first repository
 Personal repository
